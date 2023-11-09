@@ -1,3 +1,3 @@
 # predict weather image
-# classification
-# nueral netowrk
+classification
+nueral netowrk
